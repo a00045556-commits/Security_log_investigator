@@ -12,7 +12,7 @@ Features
  * Error handling for missing files and invalid log entries
  * Menu driven interface
 
-Project structure
+```Project structure
 Scripting_project_log_investigator/
 │
 ├── Data/
