@@ -1,4 +1,4 @@
-Scripting_poject_log_investigator
+```Scripting_poject_log_investigator
 
 Overview
 This is a Python program used to analyse security log files. A menu is displayed when it is started and depending on which option is picked, it analyses firewall activities, authentication events and suspicious IP address to scope out potentially harmful behaviour. 
@@ -12,7 +12,7 @@ Features
  * Error handling for missing files and invalid log entries
  * Menu driven interface
 
-```Project structure
+Project structure
 Scripting_project_log_investigator/
 │
 ├── Data/
